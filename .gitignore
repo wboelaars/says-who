@@ -1,0 +1,19 @@
+# skill-creator iteration artifacts (large; regeneratable)
+says-who-workspace/
+
+# local copy of vendor skill-creator helper scripts (not part of the skill itself)
+.skill-creator-tools/
+
+# packaged skill bundles
+*.skill
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
