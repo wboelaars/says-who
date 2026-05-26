@@ -1,0 +1,10 @@
+{
+  "name": "says-who",
+  "version": "1.1.0",
+  "description": "Two skills for auditing the claims in Claude's most recent reply: says-who (fast table-style scan, triggers on casual doubt like 'says who?' / 'prove it' / 'show your receipts') and prove-it (deep research with a per-claim narrative, triggers on explicit requests like 'really prove it' / 'fact-check this carefully' / 'verify in depth').",
+  "author": {
+    "name": "Wouter Boelaars"
+  },
+  "license": "MIT",
+  "keywords": ["audit", "verification", "claims", "hallucination", "honesty"]
+}

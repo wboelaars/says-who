@@ -1,0 +1,24 @@
+{
+  "name": "says-who",
+  "owner": {
+    "name": "Wouter Boelaars"
+  },
+  "metadata": {
+    "description": "Single-plugin marketplace for Says Who — after-the-fact claim auditors for Claude.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "says-who",
+      "source": "./",
+      "description": "Two skills for auditing the claims in Claude's most recent reply: says-who (fast table-style scan) and prove-it (deep research with a per-claim narrative). Triggers on doubt or explicit requests for verification.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Wouter Boelaars"
+      },
+      "license": "MIT",
+      "keywords": ["audit", "verification", "claims", "hallucination", "honesty", "fact-check"],
+      "category": "quality"
+    }
+  ]
+}
