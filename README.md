@@ -81,8 +81,6 @@ skills/
 │   └── SKILL.md       ← fast table-style audit
 └── prove-it/
     └── SKILL.md       ← deep research, narrative output
-evals/                 ← test prompts and fixtures (not packaged)
-└── evals.json
 README.md
 LICENSE
 ```
